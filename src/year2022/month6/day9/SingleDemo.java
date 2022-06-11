@@ -1,3 +1,4 @@
+package year2022.month6.day9;
 /*
 设计模式：解决某一问题最行之有效的方法
 

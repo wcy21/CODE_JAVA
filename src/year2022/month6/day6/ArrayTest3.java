@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class ArrayTest3 {
     public static void main(String[] args) {
 //        int[] arr = {1, -2, 3, -5, 0, -9, 4};

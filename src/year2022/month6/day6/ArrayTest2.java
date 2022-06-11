@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 import java.util.Arrays;
 
 public class ArrayTest2 {

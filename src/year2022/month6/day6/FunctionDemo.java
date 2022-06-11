@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class FunctionDemo {
     public static void main(String[] args) {
 //        int x = 4;

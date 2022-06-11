@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class FunctionDemo2 {
     public static void main(String[] args) {
         int sum = getSum(4, 6);

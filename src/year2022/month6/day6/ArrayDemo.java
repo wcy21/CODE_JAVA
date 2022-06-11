@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class ArrayDemo {
     public static void main(String[] args) {
         // 需求：定义一个可以存储3个整数的数组

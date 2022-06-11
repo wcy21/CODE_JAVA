@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class ArrayTest {
     /* 获取数组中的最大值
      步骤

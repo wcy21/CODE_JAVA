@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class ArrayTest5 {
     public static void main(String[] args) {
 //        toBin(-6);

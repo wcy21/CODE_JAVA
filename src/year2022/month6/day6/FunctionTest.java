@@ -1,3 +1,5 @@
+package year2022.month6.day6;
+
 public class FunctionTest {
     public static void main(String[] args) {
         draw(5, 7);
